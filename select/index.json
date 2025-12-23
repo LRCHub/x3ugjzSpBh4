@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "人生は夢だらけ",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-23T16:02:55.936606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生は夢だらけ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_人生は夢だらけ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jinsei wa Yume Darake [人生は夢だらけ]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Jinsei_wa_Yume_Darake_[人生は夢だらけ]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jinsei wa Yume Darake [人生は夢だらけ]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/03_Jinsei_wa_Yume_Darake_[人生は夢だらけ]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人生は夢だらけ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_人生は夢だらけ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_人生は夢だらけ_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人生は夢だらけ",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/06_人生は夢だらけ_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "人生は夢だらけ - Ma Vie, Mes Rêves",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/07_人生は夢だらけ_-_Ma_Vie,_Mes_Rêves_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "人生は夢だらけ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/08_人生は夢だらけ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/09_人生は夢だらけ_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/10_人生は夢だらけ_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生は夢だらけ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_人生は夢だらけ_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "人生は夢だらけ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_人生は夢だらけ_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "人生は夢だらけ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_人生は夢だらけ_椎名_林檎.txt"
+    }
+  ]
+}
